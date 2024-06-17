@@ -14,7 +14,7 @@ If you do not have an account, please register one account.
 *Register*
 For users' privacy, please register an account for the web application using.
 Click button register on the right top corner to direct you to the register.
-![Picture of login page along with red box around register to mark the place](Sad_MERN_SetGoal.png)
+![Picture of login page along with red box around register to mark the place](Sad_MERN_SetGoal.jpg)
 After register, the application will automatically login you and direct to the dashboard page. New registered users would have no goal automatically.
 *Login*
 After filing the login user name and credential, click button submit to start the application login.
