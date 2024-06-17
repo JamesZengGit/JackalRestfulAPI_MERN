@@ -1,5 +1,5 @@
 ## Jackal: A Goal-Setter upon MERN
-by [Guoqian Zeng]()
+by [Guoqian Zeng](https://github.com/JamesZengGit)
 > "MERN" is a stack that integrates MongooDB, Express.js, React.js, Node.js under JavaScript and cloud databases for web applications.
 ### Application
 Customer privacy: login the account with the unique credential to edit private goals, on-time logout for securing goal and information privacy from users.
@@ -9,10 +9,12 @@ Visualization: cool pages for professional processes and tangible targets.
 ### How to use this goal-setter
 **Start with Your Private Accont All**
 When visiting dashboard, the application will bring you to the login page if you are not logged in.
+![Screenshot of login page showing input box of email and password along with register and login](MERN_Login_SetGoal.png)
 If you do not have an account, please register one account.
 *Register*
 For users' privacy, please register an account for the web application using.
 Click button register on the right top corner to direct you to the register.
+![Picture of login page along with red box around register to mark the place](Sad_MERN_SetGoal.png)
 After register, the application will automatically login you and direct to the dashboard page. New registered users would have no goal automatically.
 *Login*
 After filing the login user name and credential, click button submit to start the application login.
