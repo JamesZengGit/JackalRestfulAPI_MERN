@@ -23,6 +23,10 @@ After login, the application will direct to the dashboard page.
 To create a goal, type in the goal name in the box and click button `Add Goal` once.  
 This creates a goal under your account, you will see it under the button `Add Goal` that you just clicked.  
 You might see a spinner circulating, this means the page is loading, please wait for 2-3 seconds to add your goal to the account.  
+*Read*
+To read the goal data, login to the your personal account.
+*Update*
+To update a goal, you will have the target goal created already, if you do not see any goal, you will need to create a goal first. see create a goal.
 -*Delete*  
 To delete a goal, you will have the target goal created already, if you do not see any goal, you will need to create a goal first. see create a goal.  
 If you have your target goal created already, move your cursor to the button `X` on the right top cornor of the goal and click on it.  
